@@ -1,0 +1,4 @@
+1. Depende de la arquitectura del procesador y de la interpretacion que le de el SO. Respuestas.txt
+2. Windos (de 3.x hasta Vista), Linux (de 2.2 a 2.6), OS/2, NetBSD, FreeBSD, OpenBSD, Netware, Solaris y L4 Respuestas.txt
+3. Permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+4. Si una maquina virtual se rompe no afectará el funcionamiento del resto, porque se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada.
